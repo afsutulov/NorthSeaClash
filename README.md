@@ -8,7 +8,6 @@ A modern naval battle game written in Go. Command the fleet of the **Northern Al
 
 | | |
 |---|---|
-|![Battle](screenshots/07_battle_explosion.png)
 | ![Fleet command](screenshots/02_setup.png) | ![Campaign map](screenshots/04_campaign_map.png) |
 | Choose your captain name and side | Campaign map of the North Sea |
 | ![Deployment](screenshots/05_deployment.png) | ![Battle](screenshots/07_battle_explosion.png) |

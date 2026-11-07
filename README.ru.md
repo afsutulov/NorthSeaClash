@@ -8,7 +8,6 @@
 
 | | |
 |---|---|
-|![Бой](screenshots/07_battle_explosion.png)
 | ![Выбор стороны](screenshots/02_setup.png) | ![Карта кампании](screenshots/04_campaign_map.png) |
 | Имя капитана и выбор стороны | Карта кампании |
 | ![Расстановка](screenshots/05_deployment.png) | ![Бой](screenshots/07_battle_explosion.png) |
